@@ -7,6 +7,7 @@
 		"build": "astro build",
 		"preview": "astro preview",
 		"astro": "astro",
+		"test": "echo \"No tests yet\"",
 		"ci": "biome ci . --error-on-warnings",
 		"format": "biome format --write .",
 		"lint": "biome lint --write . --error-on-warnings",

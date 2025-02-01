@@ -1,0 +1,10 @@
+name: CI
+on: pull_request
+
+permissions:
+  pull-requests: read
+  contents: read
+
+jobs:
+  ci:
+    uses: pHo9UBenaA/gh-action-templates/.github/workflows/pnpm-biome-ci.yml@master
