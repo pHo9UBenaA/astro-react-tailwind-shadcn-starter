@@ -32,7 +32,7 @@
 	"devDependencies": {
 		"@astrojs/preact": "^4.0.4",
 		"@biomejs/biome": "^1.9.4",
-		"@types/react": "^19.0.9",
+		"@types/react": "^19.0.10",
 		"@types/react-dom": "^19.0.3",
 		"vitest": "^3.0.5"
 	},
